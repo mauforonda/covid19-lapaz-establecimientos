@@ -24,7 +24,7 @@ Valores transcritos desde el 5 de mayo (primer día de publicación)
 
 ## En Salas de Hospitales
 
-![salas](plots/salas.png)
+![salas](plots/sala.png)
 
 ## Pacientes Severos
 
