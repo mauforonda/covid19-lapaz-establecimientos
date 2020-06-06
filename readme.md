@@ -6,6 +6,8 @@ Valores transcritos desde el 5 de mayo (primer día de publicación)
 
 # El 5 de junio de 2020
 
+- 73.12% de casos confirmados están en sus casas
+
 - 17.05% de casos confirmados están en hoteles
 
 - 8.67% de casos confirmados están en salas de hospitales
@@ -24,7 +26,7 @@ Valores transcritos desde el 5 de mayo (primer día de publicación)
 
 ## En Salas de Hospitales
 
-![salas](plots/sala.png)
+![sala](plots/sala.png)
 
 ## Pacientes Severos
 
