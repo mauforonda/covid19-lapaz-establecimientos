@@ -6,19 +6,25 @@ Valores transcritos desde el 5 de mayo (primer día de publicación)
 
 # El 5 de junio de 2020
 
-- 52.43% de casos activos están en sus casas
+- 59.85% de casos activos están en sus casas
 
-- 30.18% de casos activos están en hoteles
+- 22.76% de casos activos están en hoteles
 
 - 15.35% de casos activos están en salas de hospitales
 
 - 2.05% de casos activos son casos severos en hospitales
 
+- 29 casos sospechosos en hoteles
+
 # Gráficas
 
-## Total
+## Casos activos
 
-![total](plots/pacientes.png)
+![activos](plots/activos.png)
+
+## En establecimientos
+
+![establecimientos](plots/pacientes.png)
 
 ## En Hoteles
 
