@@ -8,7 +8,7 @@ Valores transcritos desde el 5 de mayo (primer día de publicación)
 
 - 17.05% de casos confirmados están en hoteles
 
-- 8.67% de casos confirmados están en hospitales
+- 8.67% de casos confirmados están en salas de hospitales
 
 - 1.16% de casos confirmados son casos severos en hospitales
 
