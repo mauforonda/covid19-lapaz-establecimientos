@@ -4,17 +4,17 @@ Fuente: SEDES La Paz ([facebook](https://www.facebook.com/Sedeslp/photos/))
 
 Valores transcritos desde el 5 de mayo (primer día de publicación)
 
-# El 9 de junio de 2020
+# El 10 de junio de 2020
 
-- 57.23% de casos activos están en sus casas
+- 57.14% de casos activos están en sus casas
 
-- 24.85% de casos activos están en hoteles
+- 25.48% de casos activos están en hoteles
 
-- 14.46% de casos activos están en salas de hospitales
+- 13.51% de casos activos están en salas de hospitales
 
-- 3.46% de casos activos son casos severos en hospitales
+- 3.86% de casos activos son casos severos en hospitales
 
-- 24 casos sospechosos en hoteles
+- 23 casos sospechosos en hoteles
 
 # Gráficas
 
